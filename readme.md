@@ -1,5 +1,8 @@
 ## AI推進事業部
 
+![Uploading ChatGPT Image 2026年9月17日 16_05_48.png…]()
+
+
 略称：AIS
 
 部長：ひろみ
