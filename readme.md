@@ -1,6 +1,5 @@
 ## AI推進事業部
-
-![Uploading ChatGPT Image 2026年9月17日 16_05_48.png…]()
+<img width="1254" height="1254" alt="AISロゴ" src="https://github.com/user-attachments/assets/48167ec4-9e4d-4bae-b33c-ecc3b88fe7b7" />
 
 
 略称：AIS
