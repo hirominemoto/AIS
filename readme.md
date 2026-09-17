@@ -1,5 +1,6 @@
 ## AI推進事業部
-<img width="1254" height="1254" alt="AISロゴ" src="https://github.com/user-attachments/assets/48167ec4-9e4d-4bae-b33c-ecc3b88fe7b7" />
+<img width="250" height="250" alt="AISロゴ" src="https://github.com/user-attachments/assets/c7ff8c2b-4670-4b41-ad8d-83605eaa97f5" />
+
 
 
 略称：AIS
